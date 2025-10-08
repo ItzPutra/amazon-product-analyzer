@@ -1,7 +1,21 @@
+<div align="center">
+  <a href="https://brightdata.com/">
+    <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="300" alt="Bright Data Logo">
+  </a>
+
 # 🛍️ Amazon Product Analytics
 Analyze Amazon product data and track market trends with AI-powered insights, interactive visualizations, and reliable data extraction across global marketplaces.
 
-https://github.com/user-attachments/assets/211e7831-2f1c-468b-9303-2a6627cdcc59
+<img src="https://img.shields.io/badge/python-3.9+-blue" />
+<img src="https://img.shields.io/badge/Gemini-API-blueviolet" />
+<img src="https://img.shields.io/badge/License-MIT-blue" />
+</div>
+
+<div align="center">
+<img src"https://github.com/brightdata/amazon-product-analyzer/blob/main/Amazon%20product%20analyzer%20demo.mp4" alt="demo">
+</div>
+
+---
 
 ## 🎯 Key features
 - **Multi-market analysis**. Deep insights from any of 23 Amazon marketplaces.
