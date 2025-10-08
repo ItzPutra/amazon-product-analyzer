@@ -12,7 +12,9 @@ Analyze Amazon product data and track market trends with AI-powered insights, in
 </div>
 
 <div align="center">
-<img src"https://github.com/brightdata/amazon-product-analyzer/blob/main/Amazon%20product%20analyzer%20demo.mp4" alt="demo">
+  
+https://github.com/brightdata/amazon-product-analyzer/blob/main/Amazon%20product%20analyzer%20demo.mp4
+
 </div>
 
 ---
